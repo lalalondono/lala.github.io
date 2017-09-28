@@ -1404,15 +1404,31 @@ h3{
     margin-top: 170px;
 }
 
-.cv{
-    margin-left: 0;
-    width: 150px;
-    background-color: #ffbf00;
-    padding: 0px 20px;
-    color: white;
-    border-radius: 25px;
-    text-decoration: none; 
+.cv {
+  margin-top: -150px;
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 25px;
+  /*font-family: Arial;*/
+  font-size: 15px;
+  color: white;
+  background: #ffbf00;
+  padding: 10px 20px 10px 20px;
+  width: 150px;
+  text-align: center;
+  text-decoration: none;
 }
+
+.cv:hover {
+  background: #3cb0fd;
+  text-decoration: none;
+}
+
+
+.todo{
+    background color: black;
+}
+
 
 
 
