@@ -1404,7 +1404,9 @@ h3{
     margin-top: 170px;
 }
 
-.cv button{
+
+
+.cv {
   margin-top: -150px;
   -webkit-border-radius: 28;
   -moz-border-radius: 28;
@@ -1427,7 +1429,18 @@ h3{
 
 .todo{
     background color: black;
+  text-decoration: none;
+
+.cv:hover {
+  background: #3cb0fd;
+  text-decoration: none;
 }
+
+
+.todo{
+    background color: black;
+}
+
 
 
 
