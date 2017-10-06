@@ -1018,7 +1018,7 @@ footer img {
 .textarea-contact {
     height: 200px;
     width: 100%;
-    border: solid 1px rgba(0, 0, 0, .1);
+    border: solid 1px rgba(255, 255, 255, .1);
     position: relative;
 }
 
@@ -1052,7 +1052,7 @@ footer img {
 .input-contact {
     height: 40px;
     width: 100%;
-    border: solid 1px rgba(0, 0, 0, .1);
+    border: solid 1px rgba(255, 255, 255, .1);
     position: relative;
     margin-bottom: 30px;
 }
@@ -1086,11 +1086,11 @@ footer img {
 
 .input-contact > span.active,
 .textarea-contact > span.active {
-    color: #ffbf00;
+    color: yellow;
     font-size: 10px;
     top: 0px;
     left: 5px;
-    background-color: #fff;
+    background-color: black;
     padding: 5px
 }
 
@@ -1429,7 +1429,8 @@ h3{
 
 .todo{
     background color: black;
-  text-decoration: none;
+    text-decoration: none;
+    margin-top: 50px;
 }
 
 .cv:hover {
@@ -1442,9 +1443,19 @@ h3{
     background color: black;
 }
 
+ .distopic{
+    background-color: black;
+}
 
+.planet{
+    height:100%;
+    background:-moz-linear-gradient(top, #FFFFFF 75%, #357BB1) no-repeat #357BB1;
+    background:-webkit-gradient(linear, left top, left bottom, from(#FFFFFF), to(#357BB1)) no-repeat #357BB1;
+}
 
-
+.conta{
+    background-color: black;
+}
 
 .content {
   position: inherit;
