@@ -999,10 +999,12 @@ footer img {
     color: #888;
 }
 
-.foto{
-    height: 100%;
+.imageabout{
+top: 0px;
+left: 0px;
+right: 0px;
+width: 100%;
 }
-
 
 /* Services page
 ==================================================*/
@@ -1137,7 +1139,7 @@ textarea:focus {
     padding: 10px 50px;
     border-radius: 0;
     color: #fff;
-    margin-top: 20px;
+    margin-top: -20px;
     text-transform: uppercase;
     letter-spacing: 2px;
     font-weight: 500;
@@ -1289,13 +1291,6 @@ textarea:focus {
         background-color: black;
         height: 100%;
         margin: 0;
-    }
-
-
-    body .soloyo{
-        background-color: black;
-    height: 100%;
-    margin: 0;
     }
 
 
@@ -1537,7 +1532,7 @@ h3{
   left: 50%;
   -webkit-transform: translate(-50%, -50%);
           transform: translate(-50%, -50%);
-  height: 160px;
+  height: 80px;
   overflow: hidden;
   font-family: 'Montserrat-ExtraBold', sans-serif;
   font-size: 25px;
