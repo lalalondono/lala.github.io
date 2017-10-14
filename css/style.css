@@ -50,7 +50,7 @@ body {
     background-size: 100%;
     background-position: right 55px;
     background-repeat: no-repeat;
-   /* background-color:black;*/
+    background-color:black;*/
 }
 
 .no-padding {
@@ -938,12 +938,12 @@ footer img {
     text-align: center;
 }
 
-.contacto{
+.contactenme{
     color: #333;
     padding: 150px 0 150px;
     /*background: -webkit-linear-gradient( rgba(255, 255, 255, .8), rgba(255, 255, 255, .8)), url(../img/01.jpg);
     background: linear-gradient( rgba(255, 255, 255, .8), rgba(255, 255, 255, .8)), url(../img/01.jpg);*/
-    background: url(../img/fondonegro.jpg);
+    background: url(../img/fondorosado.png);
     background-size: auto, 260px;
     background-attachment: fixed;
     background-position: center center;
@@ -1174,22 +1174,22 @@ textarea:focus {
 @media (max-width: 991px) {
     html, body .index{
         height: 100%;
-        background: url(../img/fondo.jpg);
+        /*background: url(../img/fondo.jpg);
         background-size: 100%;
-        background-repeat: repeat;
-        /* background-color:black;*/
+        background-repeat: repeat;*/
+        background-color:black;
     }
 
     html, body .conta{
         background-color: black;
-    height: 100%;
-    margin: 0;
+        height: 100%;
+        margin: 0;
     }
 
     html, body .soloyo{
         background-color: black;
-    height: 100%;
-    margin: 0;
+        height: 100%;
+        margin: 0;
     }
 
     .box-words-wrapper b {
@@ -1219,22 +1219,22 @@ textarea:focus {
 @media only screen and (max-width: 670px) {
     html, body .index{
         height: 100%;
-        background: url(../img/fondo.jpg);
+        /*background: url(../img/fondo.jpg);
         background-size: 100%;
-        background-repeat: repeat;
-        /* background-color:black;*/
+        background-repeat: repeat;*/
+        background-color:black;
     }
 
     html, body .conta{
         background-color: black;
-    height: 100%;
-    margin: 0;
+        height: 100%;
+        margin: 0;
     }
 
     html, body .soloyo{
         background-color: black;
-    height: 100%;
-    margin: 0;
+        height: 100%;
+        margin: 0;
     }
 
 
@@ -1281,10 +1281,10 @@ textarea:focus {
 @media only screen and (max-width: 520px) {
     html,body .index{
         height: 100%;
-        background: url(../img/fondo.jpg);
+        /*background: url(../img/fondo.jpg);
         background-size: 100%;
-        background-repeat: repeat;
-        /* background-color:black;*/
+        background-repeat: repeat;*/
+        background-color:black;
     }
 
     body .conta{
@@ -1316,10 +1316,10 @@ textarea:focus {
 @media only screen and (max-width: 420px) {
     html, body .index{
         height: 100%;
-        background: url(../img/fondo.jpg);
+        /*background: url(../img/fondo.jpg);
         background-size: 100%;
-        background-repeat: repeat;
-        /* background-color:black;*/
+        background-repeat: repeat;*/
+        background-color:black;
     }
 
     html, body .conta{
