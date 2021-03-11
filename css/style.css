@@ -1492,6 +1492,34 @@ h3{
     margin-top: 50px;
 }
 
+.etherea{
+    background-color: black;
+}
+
+.Bunny{
+    background-color: black;
+    align-content: center;
+}
+
+.Santa{
+    background-color: black;
+    align-content: center;
+}
+
+.Ponshot{
+    background-color: black;
+    align-content: center;
+}
+
+.Flytrap{
+    background-color: black;
+}
+
+.Franky{
+    background-color: black;
+}
+
+
 .lovetohear{
     background-color: black;
 }
@@ -1500,8 +1528,8 @@ h3{
   text-decoration: none;
 }
 
- .distopic{
-    background-color: black;
+ .Tank{
+    background-color: white;
 }
 
 .horror{
@@ -1515,9 +1543,14 @@ h3{
     background:-webkit-gradient(linear, left top, left bottom, from(#FFFFFF), to(#357BB1)) no-repeat #357BB1;
 }
 
-.Shoot{
+.SwissArmyBomb{
     background-color: black;
 }
+
+.RoboLab{
+    background-color: black;
+}
+
 
 .conta{
     background-color: black;
